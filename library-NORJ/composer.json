@@ -3,6 +3,6 @@
         "sergeytsalkov/meekrodb": "^2.3",
         "monolog/monolog": "^1.24",
         "bcosca/fatfree-core": "^3.6",
-        "twig/twig": "^2.0"
+        "twig/twig": "^3.11"
     }
 }
